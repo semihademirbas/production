@@ -1,6 +1,6 @@
 import mlflow
 from mlflow.models import infer_signature
-
+conda activate dsi_participant
 import pandas as pd
 
 
